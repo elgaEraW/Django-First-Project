@@ -28,7 +28,7 @@ SECRET_KEY = '$i*8c=oa_9-q80p)m27k3cd(n#909o4(k+wl(qriklpzfbqnqe'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['devjoshi.pythonanywhere.com',]
 
 
 # Application definition
